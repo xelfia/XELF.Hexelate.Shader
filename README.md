@@ -1,9 +1,25 @@
 # XELF.Hexelate.Shader
 * XELF.Hexelate.Shader: Hexelation Shader is an image effect for Unity. Screen will be filtered by hexagonal grids.
 
+* Hexelated screenshot
+
+![After: Hexelated](image/hexelated.png)
+
+* Not hexelated screenshot
+
+![Before: Unhexelated](image/unhexelated.png)
+
 # Install
 
 1. Copy this project files to your local project folder.
+
+# How to integrate a new scene
+
+* Simple script `Hexelate.cs` has ☛[`Monobehaviour.OnRenderImage`](https://docs.unity3d.com/ScriptReference/MonoBehaviour.OnRenderImage.html) method.
+
+1. Add the `Hexelate` component to your camera.
+2. Hexelation image effect can be seen in the game window.
+3. You can control the effect parameters via `Hexelate.mat` on the inspector window.
 
 # Install via Package Manager
 
