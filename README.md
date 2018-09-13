@@ -1,5 +1,6 @@
 # XELF.Hexelate.Shader
 * XELF.Hexelate.Shader: Hexelation Shader is an image effect for Unity. Screen will be filtered by hexagonal grids.
+* Tested with Unity 2018.2.7f1
 
 # Sample
 
@@ -17,7 +18,7 @@
 
 # Install via Package Manager
 
-* Temporal `package.json` is contained for the future. ☛ [Unity Package Manager](https://docs.unity3d.com/Packages/com.unity.package-manager-ui@1.9/manual/index.html)
+* Temporal `package.json` is contained for the future. ☛[Unity Package Manager](https://docs.unity3d.com/Packages/com.unity.package-manager-ui@1.9/manual/index.html)
 
 Or you can manually modify `Assets/Packages/manifest.json` on your project for Unity 2018+.
 1. Copy this project files to your local folder.
