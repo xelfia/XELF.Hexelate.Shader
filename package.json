@@ -1,0 +1,19 @@
+{
+  "name": "info.xelf.shaders.hexelate",
+  "displayName": "Hexelation Shader",
+  "version": "1.0.2",
+  "unity": "2018.3",
+  "description": "Hexelation Shader is an image effect. Screen will be filtered by hexagonal grids.",
+  "keywords": [
+    "Script",
+    "Shader",
+    "Image Effect"
+  ],
+  "category": "Image Effects",
+  "dependencies": {},
+  "author": "XELF",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xelfia/XELF.Hexelate.Shader.git"
+  }
+}
